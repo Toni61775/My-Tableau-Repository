@@ -33,7 +33,7 @@ The project demonstrates the ability to **communicate insights through data stor
 - Designed layouts to enhance readability and user experience
 
 
-<img width="497" height="268" alt="image" src="https://github.com/user-attachments/assets/5970c82d-28f0-40b7-b02f-1dd7dd936688" /> 
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/5970c82d-28f0-40b7-b02f-1dd7dd936688" /> 
 
 
 ### 🔍 Filters & Slicers
