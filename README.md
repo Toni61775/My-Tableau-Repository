@@ -30,17 +30,27 @@ The project demonstrates the ability to **communicate insights through data stor
 ### 📊 Interactive Dashboards
 - Built a fully integrated Tableau dashboard combining multiple worksheets  
 - Enabled **user interaction** through filters and dynamic views  
-- Designed layouts to enhance readability and user experience  
+- Designed layouts to enhance readability and user experience
+
+
+<img width="497" height="268" alt="image" src="https://github.com/user-attachments/assets/5970c82d-28f0-40b7-b02f-1dd7dd936688" /> 
+
 
 ### 🔍 Filters & Slicers
 - Implemented **interactive filters** (e.g., country, year, categories)  
 - Used global and sheet-level filtering to refine insights  
-- Allowed users to drill down into specific segments of the data  
+- Allowed users to drill down into specific segments of the data
+
+
+<img width="1062" height="603" alt="Screenshot 2026-06-18 at 11 40 55" src="https://github.com/user-attachments/assets/222d3b81-8d16-4da9-9d4b-0c8940957101" />
+
 
 ### 🧮 Calculated Fields
 - Created calculated metrics (e.g., averages, percentages, derived KPIs)  
 - Used calculations to enhance analysis and uncover deeper insights  
-- Applied table calculations such as **percentage of totals**  
+- Applied table calculations such as **percentage of totals**
+
+
 
 ### 📉 Data Visualisations
 Developed a range of visualisations to represent different types of data:
@@ -51,6 +61,8 @@ Developed a range of visualisations to represent different types of data:
 - **Scatter Plots** – Identifying relationships between variables  
 - **Maps** – Visualising geographical patterns and regional insights  
 
+<img width="1031" height="590" alt="image" src="https://github.com/user-attachments/assets/a619c526-4ce0-4fc3-86bd-0ffae1376ffe" />
+
 ---
 
 ## 📖 Data Storytelling
@@ -60,6 +72,8 @@ A key focus of the project was using data to tell a **clear and compelling story
 - Provided insights that could support organisational decision-making  
 - Structured dashboards to guide the user through a logical narrative  
 
+<img width="1031" height="590" alt="image" src="https://github.com/user-attachments/assets/eb9ad345-40cd-42b7-bc1a-4b5a82a5845a" />
+
 ---
 
 ## 🧠 Insights & Impact
@@ -67,8 +81,8 @@ A key focus of the project was using data to tell a **clear and compelling story
 - Showed how organisations can use dashboards to support **strategic decisions**  
 - Emphasised the importance of **clean, intuitive visual design** for communication  
 
----
-<img width="497" height="268" alt="image" src="https://github.com/user-attachments/assets/5970c82d-28f0-40b7-b02f-1dd7dd936688" />
+
+<img width="1062" height="603" alt="image" src="https://github.com/user-attachments/assets/b2961090-d1b0-4d0f-9bc3-b9da2296127c" />
 
 
 ---
